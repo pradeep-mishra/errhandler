@@ -1,0 +1,35 @@
+{
+  "name": "errhandler",
+  "description": "Error handler for express, connect like node framework and core node.js http server application",
+  "version": "0.0.2",
+  "keywords":[
+      "express", 
+      "error-handler", 
+      "connect", 
+      "middleware", 
+      "middleware-error-handler", 
+      "err-handler", 
+      "express", 
+      "connect-error-handler", 
+      "express-error-handler", 
+      "errorhandler",
+      "express-domain",
+      "connect-domain",
+      "domain-errorhandler",
+      "errorhandler-domain",
+      "domain-error-handler"
+  ],
+  "bugs":{ 
+    "url" : "https://github.com/pradeep-mishra/errhandler/issues"
+  },
+  "author":{
+    "name" : "Pradeep Mishra", 
+    "email" : "pradeep23oct@gmail.com"
+  },
+  "main":"index.js",
+  "repository" :{ 
+    "type" : "git", 
+    "url" : "https://github.com/pradeep-mishra/errhandler.git"
+    },
+    "license":"MIT"
+}
