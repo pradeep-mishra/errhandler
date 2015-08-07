@@ -34,6 +34,7 @@ errHandler.error(function(err, req, res){
     this.response.send(200, "oops!" + err.stack);
 });
 
+
 app.use(errHandler.middleWare);
 
 app.get('/', function(req,res){
